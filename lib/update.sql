@@ -1,1 +1,1 @@
-UPDATE characters SET species = 'cylon' LIMIT -1;
+UPDATE characters SET species = 'Martian'  ;
